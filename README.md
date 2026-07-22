@@ -3,6 +3,15 @@
 I build focused, locally runnable utilities with source code, tests, examples,
 and versioned downloads. No vague subscriptions and no business-data uploads.
 
+## CSV product-data cleaning — USD 5 / RMB 39 first batch
+
+One product CSV up to 500 rows, returned with documented deduplication, basic
+format normalization, a cleaned file, and a before/after audit log. Public
+inquiries use only column names and synthetic examples; real customer or order
+data must never be posted publicly.
+
+[Inspect the downloadable Excel portfolio](https://github.com/zhailong8845-art/csv-data-cleaning-portfolio/releases/tag/v1.0.0) · [Service details](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-cleaning-service) · [Submit a sanitized request](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-cleaning-service.yml)
+
 ## Git Handoff Checker — USD 7 / RMB 49
 
 One fail-closed command before a client delivery. It detects:
