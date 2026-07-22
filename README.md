@@ -27,7 +27,7 @@ the affected text column, then download an Excel-ready result and JSON audit.
 It runs locally in the browser, refuses ambiguous short rows, and has a one-click
 synthetic trial, eight dependency-free tests, and before/after evidence.
 
-[Try it free in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download free v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [USD 5 human-checked repair](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-web-purchase.yml) · [Chinese service scope and cover](https://github.com/zhailong8845-art/xianyu-csv-repair-service)
+[Try it free in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download free v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [USD 5 bilingual service page](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/csv-repair-service.html) · [Chinese service scope and cover](https://github.com/zhailong8845-art/xianyu-csv-repair-service)
 
 ## Git Handoff Checker — USD 7 / RMB 49
 
