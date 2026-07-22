@@ -12,6 +12,14 @@ data must never be posted publicly.
 
 [Inspect the downloadable Excel portfolio](https://github.com/zhailong8845-art/csv-data-cleaning-portfolio/releases/tag/v1.0.0) · [Service details](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-cleaning-service) · [Submit a sanitized request](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-cleaning-service.yml)
 
+## CSV Row Realigner — USD 5 / RMB 39
+
+Repairs rows shifted by an unquoted delimiter inside one configured text field,
+normalizes selected dates, checks unique IDs, and proves record preservation in
+a JSON audit. Dependency-free, offline, eight tests, with versioned downloads.
+
+[Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner/releases/tag/v1.0.0) · [See the terminal demo](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-row-realigner) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-purchase.yml)
+
 ## Git Handoff Checker — USD 7 / RMB 49
 
 One fail-closed command before a client delivery. It detects:
