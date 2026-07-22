@@ -24,10 +24,10 @@ a JSON audit. Dependency-free, offline, eight tests, with versioned downloads.
 
 The same shifted-row repair workflow for non-technical users: choose a CSV and
 the affected text column, then download an Excel-ready result and JSON audit.
-It runs locally in the browser, refuses ambiguous short rows, and has seven
-dependency-free tests plus synthetic before/after evidence.
+It runs locally in the browser, refuses ambiguous short rows, and has a one-click
+synthetic trial, eight dependency-free tests, and before/after evidence.
 
-[Try it in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.0) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-web-purchase.yml)
+[Try it in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-web-purchase.yml)
 
 ## Git Handoff Checker — USD 7 / RMB 49
 
