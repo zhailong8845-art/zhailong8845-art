@@ -29,10 +29,19 @@ a data-quality report without uploading customer data.
 
 Turns Chinese-platform order CSV files into an Excel-friendly per-SKU profit
 report. It deducts refunds, platform fees, shipping, and goods cost, then puts
-loss-making SKUs first. Installable as `ecom-profit`, with six-job CI across
+loss-making SKUs first. Custom column maps support unknown marketplace headers.
+Installable as `ecom-profit`, with six-job CI across
 Windows, macOS, Linux, Python 3.10, and Python 3.13.
 
-[See the product](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#profit-analyzer) · [Download v1.0.1](https://github.com/zhailong8845-art/china-ecom-profit-analyzer/releases/tag/v1.0.1) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=profit-analyzer-purchase.yml)
+[See the product](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#profit-analyzer) · [Download v1.1.0](https://github.com/zhailong8845-art/china-ecom-profit-analyzer/releases/tag/v1.1.0) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=profit-analyzer-purchase.yml)
+
+### CSV header mapping service — USD 5 / RMB 39
+
+Send only a sanitized CSV header row—never order or customer data—and receive a
+custom `column-map.json`, copy-ready command, synthetic verification evidence,
+and one re-check within seven days.
+
+[Service details](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#profit-map-service) · [Submit sanitized headers](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=profit-map-service.yml)
 
 ## Bundle — USD 15 / RMB 99
 
