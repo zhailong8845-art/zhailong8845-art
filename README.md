@@ -31,6 +31,14 @@ Both tools together, saving USD 4 / RMB 29 compared with buying separately.
 
 [View the two-tool catalog](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/)
 
+## Fixed-price Git handoff audit — USD 5 / RMB 39
+
+For one public repository and target branch, receive a Markdown report with the
+exact commit, delivery-risk checks, packaging findings, prioritized remediation,
+and one re-check within seven days. No credentials or private code required.
+
+[Service details](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#handoff-audit) · [Submit a public repository](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=handoff-audit.yml)
+
 Please do not post contact details, credentials, customer data, or payment
 information in a public GitHub issue. The inquiry forms are only for selecting
 the product and use case.
