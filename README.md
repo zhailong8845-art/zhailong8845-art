@@ -25,11 +25,19 @@ a data-quality report without uploading customer data.
 
 [See the product](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/) · [Product release](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/releases/tag/v1.0.0) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=purchase.yml)
 
-## Bundle — USD 12 / RMB 79
+## E-commerce SKU Profit Analyzer — USD 7 / RMB 49
 
-Both tools together, saving USD 4 / RMB 29 compared with buying separately.
+Turns Chinese-platform order CSV files into an Excel-friendly per-SKU profit
+report. It deducts refunds, platform fees, shipping, and goods cost, then puts
+loss-making SKUs first. Runs offline and includes five automated tests.
 
-[View the two-tool catalog](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/)
+[See the product](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#profit-analyzer) · [Download v1.0.0](https://github.com/zhailong8845-art/china-ecom-profit-analyzer/releases/tag/v1.0.0) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=profit-analyzer-purchase.yml)
+
+## Bundle — USD 15 / RMB 99
+
+All three tools together, saving USD 8 / RMB 58 compared with buying separately.
+
+[View the three-tool catalog](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/)
 
 ## Fixed-price Git handoff audit — USD 5 / RMB 39
 
