@@ -18,7 +18,7 @@ Repairs rows shifted by an unquoted delimiter inside one configured text field,
 normalizes selected dates, checks unique IDs, and proves record preservation in
 a JSON audit. Dependency-free, offline, eight tests, with versioned downloads.
 
-[Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner/releases/tag/v1.0.0) · [See the terminal demo](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-row-realigner) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-purchase.yml)
+[Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner/releases/tag/v1.0.0) · [See the terminal demo](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-row-realigner) · [USD 5 service brief](https://gist.github.com/zhailong8845-art/04d87e552899eabf815da343567f8439) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-purchase.yml)
 
 ## Git Handoff Checker — USD 7 / RMB 49
 
