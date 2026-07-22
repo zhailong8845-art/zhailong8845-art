@@ -18,7 +18,7 @@ Repairs rows shifted by an unquoted delimiter inside one configured text field,
 normalizes selected dates, checks unique IDs, and proves record preservation in
 a JSON audit. Dependency-free, offline, eight tests, with versioned downloads.
 
-[Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner/releases/tag/v1.0.0) · [See the terminal demo](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-row-realigner) · [USD 5 service brief](https://gist.github.com/zhailong8845-art/04d87e552899eabf815da343567f8439) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-purchase.yml)
+[Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner/releases/tag/v1.0.0) · [See the terminal demo](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-row-realigner) · [USD 5 service scope](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/csv-repair-service.html) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-purchase.yml)
 
 ### Free browser edition + USD 5 human-checked service
 
@@ -27,7 +27,9 @@ the affected text column, then download an Excel-ready result and JSON audit.
 It runs locally in the browser, refuses ambiguous short rows, and has a one-click
 synthetic trial, eight dependency-free tests, and before/after evidence.
 
-[Try it free in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download free v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [USD 5 bilingual service page](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/csv-repair-service.html) · [Chinese service scope and cover](https://github.com/zhailong8845-art/xianyu-csv-repair-service)
+[![CSV Repair Service — USD 5 / RMB 39, Local, Private, Auditable](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/og-csv-repair.png)](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/csv-repair-service.html)
+
+[Try it free in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download free v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [USD 5 bilingual service page](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/csv-repair-service.html) · [Request human-verified repair](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-web-purchase.yml) · [Chinese service scope and cover](https://github.com/zhailong8845-art/xianyu-csv-repair-service)
 
 ## Git Handoff Checker — USD 7 / RMB 49
 
