@@ -20,14 +20,14 @@ a JSON audit. Dependency-free, offline, eight tests, with versioned downloads.
 
 [Download v1.0.0](https://github.com/zhailong8845-art/csv-row-realigner/releases/tag/v1.0.0) · [See the terminal demo](https://zhailong8845-art.github.io/china-ecom-csv-cleaner-product/#csv-row-realigner) · [USD 5 service brief](https://gist.github.com/zhailong8845-art/04d87e552899eabf815da343567f8439) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-purchase.yml)
 
-### Browser edition — USD 9 / RMB 59
+### Free browser edition + USD 5 human-checked service
 
 The same shifted-row repair workflow for non-technical users: choose a CSV and
 the affected text column, then download an Excel-ready result and JSON audit.
 It runs locally in the browser, refuses ambiguous short rows, and has a one-click
 synthetic trial, eight dependency-free tests, and before/after evidence.
 
-[Try it in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [Purchase inquiry](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-web-purchase.yml)
+[Try it free in the browser](https://zhailong8845-art.github.io/csv-row-realigner-web/) · [Download free v1.0.1](https://github.com/zhailong8845-art/csv-row-realigner-web/releases/tag/v1.0.1) · [Inspect the source](https://github.com/zhailong8845-art/csv-row-realigner-web) · [USD 5 human-checked repair](https://github.com/zhailong8845-art/china-ecom-csv-cleaner-product/issues/new?template=csv-row-realigner-web-purchase.yml)
 
 ## Git Handoff Checker — USD 7 / RMB 49
 
